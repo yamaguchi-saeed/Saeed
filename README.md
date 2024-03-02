@@ -7,7 +7,7 @@ Additionally, I possess knowledge in databases and  programming in C and Java. I
 
 #Experience:
 
-🔭 I’m currently working on Machine Learning Projects
+💻I’m currently working on Machine Learning Projects
 
  ![amazon-aws](https://github.com/GamebwoySaeed/Saeed/assets/42499925/a66a40f1-6642-4b2b-a1fe-16eaa58dd3e6)I’m currently learning AWS
  
